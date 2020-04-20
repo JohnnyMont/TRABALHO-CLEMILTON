@@ -1,5 +1,4 @@
 package app;
-
 import app1.Tela1;
 import javax.swing.JOptionPane;
 public abstract class App {
